@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TinyLlama Local",
+    "slug": "tinyllama-local",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true
+  }
+}

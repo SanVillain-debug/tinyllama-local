@@ -1,0 +1,17 @@
+{
+  "kind": "MOBILE",
+  "template": "expo-app",
+  "build": {
+    "command": "npm run build",
+    "output": "dist"
+  },
+  "connect": [
+    "huggingface.co",
+    "cdn-lfs.huggingface.co",
+    "cas-bridge.xethub.hf.co",
+    "cdn.jsdelivr.net",
+    "es.wikipedia.org",
+    "en.wikipedia.org"
+  ],
+  "secrets": {}
+}
